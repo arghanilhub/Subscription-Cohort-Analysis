@@ -10,3 +10,5 @@ Recently Netflix is experiencing fluctuating subscriber growth, particularly as 
 * **Subscription Growth Insights:** Pinpointing key patterns in subscription increases, whether seasonal or tied to specific months, what percentage of customers have subscribed more than 5 months or more?
 
 * **Customer Cohorts and Lifetime Value:** Identifying trends across cohorts (customers who joined within the same month or year), calculating the lifetime value of different customer groups( for both churned and active customers ) and forcasting how much additioanl revenue, the active customers can bring?  
+
+This is a fictional Netflix subscription dataset that I obtained from Kaggle. I then prepared the data to fit the analysis I needed.   
