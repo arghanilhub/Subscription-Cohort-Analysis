@@ -40,4 +40,20 @@ So, more than 6 additional helper coloumns I have added in my preped dataset to 
 My analysis shows a steady growth in subscriptions from 2022 into 2023, with a marked boost after Q2 of 2023. Currently, 41% of our customers stay on the platform for more than five months, while 54% leave sooner. Encouragingly, since **June 2023**, our retention rate has started to surpass our churn rate, signaling improving customer loyalty. On average, each customer stays with us for around **seven months**. From September **2022** through November 3, **2024**, we’ve generated **over $800,000 in total revenue**, with active customers driving the majority of this. The **June, July, and August 2023 cohorts** stand out, not only for generating the highest revenue but also for having the most active customers and achieving the lowest churn rate.<br/> 
 
 Below is the overview page from my report, which presents the top-line metrics along with how subscriptions have trended over time.<br/> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight1](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight1.png) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight1](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight1.png)<br/> 
+
+**Retention and Churn Patterns:**
+<br/> 
+
+* Our churn rate has typically been high, but starting in June 2023, **retention has surpassed churn** and continued on this positive trend. Additionally, **June, July, and August appear to have the highest subscription retention rates**. To understand the factors behind this improvement, we should investigate these months closely. **Did we implement any changes just after April?** If so, what kind of changes were they?<br/> 
+* However, our **overall retention rate is still lower than our churn rate**, likely because the recent increase in retention is quite new. If this positive growth continues at the current pace, we can expect our overall retention percentage to eventually surpass the churn percentage.
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight2](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight2.png)  
+<br/>
+
+**Subscription Growth Insights:**
+<br/>
+ 
+
+
