@@ -14,7 +14,10 @@ Recently Netflix is experiencing fluctuating subscriber growth, particularly as 
 This is a fictional Netflix subscription dataset that I obtained from Kaggle. I then prepared the data to fit the analysis I needed.<br/>    
 In this project, I analyzed **retention and churn rates** in two ways. **First**, I examined how many customers stayed for more than five months versus those who left earlier. Based on this, I tracked whether retention has been higher or lower than the churn rate over time, and specifically if our retention rate has started surpassing churn in recent periods. In the **second approach**, I analyzed churn across the entire dataset to determine the average customer lifetime, which provides insights for forecasting additional revenue from our active customers.<br/> includes
 
-You can download the excel report from here ![Excel report](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/Subscription%20Cohort%20Analysis%20Data(AutoRecovered).xlsx)  
+You can download the excel report from here ![Excel report](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/Subscription%20Cohort%20Analysis%20Data(AutoRecovered).xlsx) 
+
+Insights and Recommandation are provided on the following key sections which are mentioned above in the executive summery part of this project.
+<br/> 
 <br/> 
 <h3>Data Structure and Initial checks</h3> 
 <hr> 
@@ -32,5 +35,8 @@ So, more than 6 additional helper coloumns I have added in my preped dataset to 
 <h3>Executive Summery</h3> 
 <hr> 
 
-Our analysis shows a steady growth in subscriptions from 2022 into 2023, with a marked boost after Q2 of 2023. Currently, 41% of our customers stay on the platform for more than five months, while 54% leave sooner. Encouragingly, since **June 2023**, our retention rate has started to surpass our churn rate, signaling improving customer loyalty. On average, each customer stays with us for around **seven months**. From September **2022** through November 3, **2024**, we’ve generated **over $800,000 in total revenue**, with active customers driving the majority of this. The **June, July, and August 2023 cohorts** stand out, not only for generating the highest revenue but also for having the most active customers and achieving the lowest churn rate.<br/> 
+**Overview Findings**<br/> 
 
+My analysis shows a steady growth in subscriptions from 2022 into 2023, with a marked boost after Q2 of 2023. Currently, 41% of our customers stay on the platform for more than five months, while 54% leave sooner. Encouragingly, since **June 2023**, our retention rate has started to surpass our churn rate, signaling improving customer loyalty. On average, each customer stays with us for around **seven months**. From September **2022** through November 3, **2024**, we’ve generated **over $800,000 in total revenue**, with active customers driving the majority of this. The **June, July, and August 2023 cohorts** stand out, not only for generating the highest revenue but also for having the most active customers and achieving the lowest churn rate.<br/> 
+
+Below is the overview page from my report, which presents the top-line metrics along with how subscriptions have trended over time.
