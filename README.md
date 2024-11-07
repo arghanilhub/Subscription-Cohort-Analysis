@@ -39,7 +39,7 @@ So, more than 6 additional helper coloumns I have added in my preped dataset to 
 
 My analysis shows a steady growth in subscriptions from 2022 into 2023, with a marked boost after Q2 of 2023. Currently, 41% of our customers stay on the platform for more than five months, while 54% leave sooner. Encouragingly, since **June 2023**, our retention rate has started to surpass our churn rate, signaling improving customer loyalty. On average, each customer stays with us for around **seven months**. From September **2022** through November 3, **2024**, we’ve generated **over $800,000 in total revenue**, with active customers driving the majority of this. The **June, July, and August 2023 cohorts** stand out, not only for generating the highest revenue but also for having the most active customers and achieving the lowest churn rate.<br/> 
 
-Below is the overview page from my report, which presents the top-line metrics along with how subscriptions have trended over time.<br/> 
+Below is the overview page from my excel report, which presents the top-line metrics along with how subscriptions have trended over time.<br/> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight1](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight1.png)<br/> 
 
 **Retention and Churn Patterns:**
@@ -54,6 +54,32 @@ Below is the overview page from my report, which presents the top-line metrics a
 
 **Subscription Growth Insights:**
 <br/>
+* As our subscriber numbers continue to show a steady increase, **so does the average subscription duration**. Customers are maintaining their subscriptions for an average of **7 months**, and this duration is rising. Both metrics project a profitable business outlook, indicating that we’ve been implementing effective strategies since May 2023.
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![insight3](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight3.png)
+<br/> 
+<br/> 
+
+**Customer Cohorts and Lifetime Value:** 
+<br/> 
+* **Life time value** we generated during this period i.e from sept. 2022 upto 3rd nov. 2024 is  **$841,620**  from all the customer, including the churned as well as active ones. 
+* We have total over **1055 Active customers** out of 2936 total customers, and generated **almost 700 thousand dollers**, which covers the big chunk of the total LTV amount we have generated from all of our customers. 
+* It appears that users who subscribed in June, July, and August 2023 have generated the most revenue, and these months also have the highest number of active users.
+* Based on our average churn rate which is 64% , if the active customers continue for **another 2 months** from the last day of recording , we could say that we can genearte an **additional amount of 80 thousand dollers**.[Revenue forcast from active custoemrs]
+<br/>  
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![insight4](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight4.png) 
+<br/> 
+<br/> 
+
+**Recommandations:** 
+<br/> 
+* We should **closely examine the months-June, July, and August of 2023**, as these cohorts generated the most revenue from both active and churned customers and also had the lowest churn rate. It’s essential to analyze these periods in depth—whether we introduced cost-effective subscription plans, implemented new marketing strategies, or added fresh content types to our platform. Understanding the factors behind these positive metrics can help us replicate successful strategies in upcoming months.<br/>
+  
+* To understand **why customers left our platform** and **what encouraged them to stay**, we need to **examine two time periods**: September 2022 to March 2023, when our churn rate was very high, and June 2023 to September 2023, when retention rates improved significantly. Analyzing these periods from a marketing or content strategy perspective will reveal what we lacked before and what changes we implemented afterward. These insights can guide our future strategies. 
+
+
  
 
 
