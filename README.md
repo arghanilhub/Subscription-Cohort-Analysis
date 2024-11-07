@@ -39,4 +39,5 @@ So, more than 6 additional helper coloumns I have added in my preped dataset to 
 
 My analysis shows a steady growth in subscriptions from 2022 into 2023, with a marked boost after Q2 of 2023. Currently, 41% of our customers stay on the platform for more than five months, while 54% leave sooner. Encouragingly, since **June 2023**, our retention rate has started to surpass our churn rate, signaling improving customer loyalty. On average, each customer stays with us for around **seven months**. From September **2022** through November 3, **2024**, we’ve generated **over $800,000 in total revenue**, with active customers driving the majority of this. The **June, July, and August 2023 cohorts** stand out, not only for generating the highest revenue but also for having the most active customers and achieving the lowest churn rate.<br/> 
 
-Below is the overview page from my report, which presents the top-line metrics along with how subscriptions have trended over time.
+Below is the overview page from my report, which presents the top-line metrics along with how subscriptions have trended over time.<br/> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight1](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight1.png) 
