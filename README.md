@@ -49,7 +49,7 @@ Below is the overview page from my report, which presents the top-line metrics a
 * However, our **overall retention rate is still lower than our churn rate**, likely because the recent increase in retention is quite new. If this positive growth continues at the current pace, we can expect our overall retention percentage to eventually surpass the churn percentage.
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![insight2](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight2.png)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![insight2](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/insight2.png)   
 <br/>
 
 **Subscription Growth Insights:**
