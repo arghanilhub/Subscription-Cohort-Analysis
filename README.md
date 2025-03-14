@@ -12,11 +12,11 @@ Recently Netflix is experiencing fluctuating subscriber growth, particularly as 
 * **Customer Cohorts and Lifetime Value:** Identifying trends across cohorts (customers who joined within the same month or year), calculating the lifetime value of different customer groups( for both churned and active customers ) and forcasting how much additioanl revenue, the active customers can bring?  
 
 This is a fictional Netflix subscription dataset that I obtained from Kaggle. I then prepared the data to fit the analysis I needed.<br/>    
-In this project, I analyzed **retention and churn rates** in two ways. **First**, I examined how many customers stayed for more than five months versus those who left earlier. Based on this, I tracked whether retention has been higher or lower than the churn rate over time, and specifically if our retention rate has started surpassing churn in recent periods. In the **second approach**, I analyzed churn across the entire dataset to determine the average customer lifetime, which provides insights for forecasting additional revenue from our active customers.<br/> includes
+In this project, I analyzed **retention and churn rates** in two ways. **First**, I examined how many customers stayed for more than five months versus those who left earlier. Based on this, I tracked whether retention has been higher or lower than the churn rate over time, and specifically if our retention rate has started surpassing churn in recent periods. In the **second approach**, I analyzed churn across the entire dataset to determine the average customer lifetime, which provides insights for forecasting additional revenue from our active customers.<br/> 
 
 You can download the excel report from here ![Excel report](https://github.com/arghanilhub/Subscription-Cohort-Analysis/blob/main/Subscription%20Cohort%20Analysis%20Data(AutoRecovered).xlsx) 
 
-Insights and Recommandation are provided on the following key sections which are mentioned above in the executive summery part of this project.
+Insights and Recommandation are provided on the following key sections : 
 <br/> 
 <br/> 
 <h3>Data Structure and Initial checks</h3> 
